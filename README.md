@@ -3,5 +3,5 @@
 <audio autoplay>
 <source src="Take on Me Flute Earrape.mp3">
 </audio>
-<video src="videoplayback.mp4" controls="controls"> 
+<video src="videoplayback.mp4"> 
 </video>
